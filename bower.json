@@ -1,0 +1,11 @@
+{
+  "name": "autobahnjs",
+  "version": "0.7.6",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/unregistered/AutobahnJS.git"
+  },
+  "dependencies": {
+    "when": "~1.8.1"
+  }
+}
