@@ -1,11 +1,15 @@
 {
   "name": "autobahnjs",
   "version": "0.7.6",
+  "main": "autobahn/autobahn.js",
+  "dependencies": {
+    "when": "1.8.1"
+  },
+  "readmeFilename": "README.md",
+  "_id": "autobahnjs@0.7.6",
+  "description": "WAMP websockets library",
   "repository": {
     "type": "git",
     "url": "git://github.com/unregistered/AutobahnJS.git"
-  },
-  "dependencies": {
-    "when": "~1.8.1"
   }
 }
